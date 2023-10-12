@@ -1,0 +1,11 @@
+framework module MiniAppA {
+  umbrella header "MiniAppA.h"
+
+  export *
+  module * { export * }
+}
+
+module MiniAppA.Swift {
+  header "MiniAppA-Swift.h"
+  requires objc
+}

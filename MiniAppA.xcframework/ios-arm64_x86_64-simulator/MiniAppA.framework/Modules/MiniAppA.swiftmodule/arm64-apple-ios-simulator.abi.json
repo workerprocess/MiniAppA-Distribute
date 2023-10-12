@@ -1,0 +1,276 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MiniAppA",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "MiniAppA"
+      },
+      {
+        "kind": "Import",
+        "name": "LogicCalculate",
+        "printedName": "LogicCalculate",
+        "declKind": "Import",
+        "moduleName": "MiniAppA"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "LauncherMiniApp",
+        "printedName": "LauncherMiniApp",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "OpenView",
+            "printedName": "OpenView(openView:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AnyView",
+                "printedName": "SwiftUI.AnyView",
+                "usr": "s:7SwiftUI7AnyViewV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Binding",
+                "printedName": "SwiftUI.Binding<Swift.Bool>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:7SwiftUI7BindingV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8MiniAppA08LauncheraB0C8OpenView04openE07SwiftUI03AnyE0VAF7BindingVySbG_tF",
+            "mangledName": "$s8MiniAppA08LauncheraB0C8OpenView04openE07SwiftUI03AnyE0VAF7BindingVySbG_tF",
+            "moduleName": "MiniAppA",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "LauncherMiniApp",
+                "printedName": "MiniAppA.LauncherMiniApp",
+                "usr": "s:8MiniAppA08LauncheraB0C"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:8MiniAppA08LauncheraB0CACycfc",
+            "mangledName": "$s8MiniAppA08LauncheraB0CACycfc",
+            "moduleName": "MiniAppA",
+            "declAttributes": [
+              "Required",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:8MiniAppA08LauncheraB0C",
+        "mangledName": "$s8MiniAppA08LauncheraB0C",
+        "moduleName": "MiniAppA",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "MiniAppGateway",
+            "printedName": "MiniAppGateway",
+            "usr": "s:14LogicCalculate14MiniAppGatewayP",
+            "mangledName": "$s14LogicCalculate14MiniAppGatewayP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "MiniAppA",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "LogicCalculate",
+        "printedName": "LogicCalculate",
+        "declKind": "Import",
+        "moduleName": "MiniAppA"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "MiniAppA",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/LauncherMiniApp.swift",
+      "kind": "StringLiteral",
+      "offset": 374,
+      "length": 22,
+      "value": "\"Init launcherMiniApp\""
+    },
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
+      "kind": "BooleanLiteral",
+      "offset": 229,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
+      "kind": "FloatLiteral",
+      "offset": 308,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
+      "kind": "StringLiteral",
+      "offset": 411,
+      "length": 15,
+      "value": "\"Hello, World!\""
+    },
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
+      "kind": "IntegerLiteral",
+      "offset": 485,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
+      "kind": "StringLiteral",
+      "offset": 510,
+      "length": 39,
+      "value": "\"10+5=\""
+    },
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
+      "kind": "IntegerLiteral",
+      "offset": 537,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
+      "kind": "IntegerLiteral",
+      "offset": 545,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
+      "kind": "StringLiteral",
+      "offset": 548,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
+      "kind": "StringLiteral",
+      "offset": 602,
+      "length": 7,
+      "value": "\"Close\""
+    },
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
+      "kind": "BooleanLiteral",
+      "offset": 648,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
+      "kind": "IntegerLiteral",
+      "offset": 710,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
+      "kind": "StringLiteral",
+      "offset": 741,
+      "length": 19,
+      "value": "\"Open Another View\""
+    },
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
+      "kind": "BooleanLiteral",
+      "offset": 806,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view2.swift",
+      "kind": "FloatLiteral",
+      "offset": 248,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view2.swift",
+      "kind": "StringLiteral",
+      "offset": 329,
+      "length": 15,
+      "value": "\"Hello, View2!\""
+    },
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view2.swift",
+      "kind": "IntegerLiteral",
+      "offset": 383,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view2.swift",
+      "kind": "StringLiteral",
+      "offset": 410,
+      "length": 7,
+      "value": "\"Close\""
+    },
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view2.swift",
+      "kind": "BooleanLiteral",
+      "offset": 459,
+      "length": 5,
+      "value": "false"
+    }
+  ]
+}
