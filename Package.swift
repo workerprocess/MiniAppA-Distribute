@@ -1,17 +1,17 @@
 // swift-tools-version:5.7
 import PackageDescription
 let package = Package(
-    name: MiniAppA,
+    name: "MiniAppA",
     platforms: [
         .iOS(.v16)
     ],
     products: [
         .library(
-            name: MiniAppA,
-            targets: [MiniAppA])
+            name: "MiniAppA",
+            targets: ["MiniAppA"])
     ],
     targets: [
         .binaryTarget(
-            name: MiniAppA,
+            name: "MiniAppA",
             path: "MiniAppA.xcframework")
     ])
