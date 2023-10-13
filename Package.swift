@@ -11,7 +11,7 @@ let package = Package(
             targets: ["MiniAppA"])
     ],
     targets: [
-        .binaryTarget(
+        .target(
             name: "MiniAppA",
             path: "MiniAppA.xcframework")
     ])
