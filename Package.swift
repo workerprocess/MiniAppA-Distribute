@@ -12,7 +12,7 @@ let package = Package(
     ],
     dependencies: [
          .package(
-            name: "LogicCalculate"
+            name: "LogicCalculate",
             url: "https://github.com/workerprocess/LogicCalculate-Distribute", 
             from: "0.0.1"),
     ],
