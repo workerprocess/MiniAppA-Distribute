@@ -17,5 +17,6 @@ let package = Package(
         .binaryTarget(
             name: "MiniAppA",
             path: "MiniAppA.xcframework"),
+            dependencies: ["LogicCalculate-Distribute"],
 
     ])
