@@ -11,6 +11,7 @@ import _Concurrency
 import _StringProcessing
 public class LauncherMiniApp : LogicCalculate.MiniAppGateway {
   public func OpenView(openView: SwiftUI.Binding<Swift.Bool>) -> SwiftUI.AnyView
+  public func OpenView(openView: SwiftUI.Binding<Swift.Bool>, title: Swift.String) -> SwiftUI.AnyView
   required public init()
   @objc deinit
 }
