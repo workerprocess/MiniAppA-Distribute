@@ -10,12 +10,14 @@ let package = Package(
             name: "MiniAppA",
             targets: ["MiniAppA"])
     ],
-    dependencies: [
-        .package(url: "https://github.com/workerprocess/LogicCalculate-Distribute", from:"0.0.1"),
-    ],
     targets: [
-        .target(
+        .binaryTarget(
             name: "MiniAppA",
-            dependencies: ["LogicCalculate"],
-            path: "MiniAppA.xcframework")
+            path: "MiniAppA.xcframework"
+        )
+        .binaryTarget(
+            name: "LogicCalculate",
+            url: "https://github.com/workerprocess/LogicCalculate-Distribute/blob/main/LogicCalculate.zip",
+            checksum: "9c91b2092d59a1a62f0635952a06859862cf66eb05458c907f40d3978e56e432"
+        )
     ])
