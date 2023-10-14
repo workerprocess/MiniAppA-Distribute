@@ -35,43 +35,8 @@
         "children": [
           {
             "kind": "Function",
-            "name": "OpenView",
-            "printedName": "OpenView(openView:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "AnyView",
-                "printedName": "SwiftUI.AnyView",
-                "usr": "s:7SwiftUI7AnyViewV"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Binding",
-                "printedName": "SwiftUI.Binding<Swift.Bool>",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
-                  }
-                ],
-                "usr": "s:7SwiftUI7BindingV"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:8MiniAppA08LauncheraB0C8OpenView04openE07SwiftUI03AnyE0VAF7BindingVySbG_tF",
-            "mangledName": "$s8MiniAppA08LauncheraB0C8OpenView04openE07SwiftUI03AnyE0VAF7BindingVySbG_tF",
-            "moduleName": "MiniAppA",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "OpenView",
-            "printedName": "OpenView(openView:title:)",
+            "name": "OpenView2",
+            "printedName": "OpenView2(openView:title:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -101,8 +66,43 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:8MiniAppA08LauncheraB0C8OpenView04openE05title7SwiftUI03AnyE0VAG7BindingVySbG_SStF",
-            "mangledName": "$s8MiniAppA08LauncheraB0C8OpenView04openE05title7SwiftUI03AnyE0VAG7BindingVySbG_SStF",
+            "usr": "s:8MiniAppA08LauncheraB0C9OpenView28openView5title7SwiftUI03AnyG0VAG7BindingVySbG_SStF",
+            "mangledName": "$s8MiniAppA08LauncheraB0C9OpenView28openView5title7SwiftUI03AnyG0VAG7BindingVySbG_SStF",
+            "moduleName": "MiniAppA",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "OpenView",
+            "printedName": "OpenView(openView:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AnyView",
+                "printedName": "SwiftUI.AnyView",
+                "usr": "s:7SwiftUI7AnyViewV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Binding",
+                "printedName": "SwiftUI.Binding<Swift.Bool>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:7SwiftUI7BindingV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8MiniAppA08LauncheraB0C8OpenView04openE07SwiftUI03AnyE0VAF7BindingVySbG_tF",
+            "mangledName": "$s8MiniAppA08LauncheraB0C8OpenView04openE07SwiftUI03AnyE0VAF7BindingVySbG_tF",
             "moduleName": "MiniAppA",
             "declAttributes": [
               "AccessControl"
@@ -183,7 +183,7 @@
     {
       "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/LauncherMiniApp.swift",
       "kind": "StringLiteral",
-      "offset": 525,
+      "offset": 528,
       "length": 22,
       "value": "\"Init launcherMiniApp\""
     },
