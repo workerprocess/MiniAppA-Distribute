@@ -148,92 +148,106 @@
     },
     {
       "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
+      "kind": "StringLiteral",
+      "offset": 218,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
       "kind": "BooleanLiteral",
-      "offset": 229,
+      "offset": 262,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
       "kind": "FloatLiteral",
-      "offset": 308,
+      "offset": 346,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
       "kind": "StringLiteral",
-      "offset": 411,
-      "length": 15,
-      "value": "\"Hello, World!\""
+      "offset": 427,
+      "length": 29,
+      "value": "\"Hello, World! from \""
+    },
+    {
+      "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
+      "kind": "StringLiteral",
+      "offset": 455,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
       "kind": "IntegerLiteral",
-      "offset": 485,
+      "offset": 495,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
       "kind": "StringLiteral",
-      "offset": 510,
+      "offset": 520,
       "length": 39,
       "value": "\"10+5=\""
     },
     {
       "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
       "kind": "IntegerLiteral",
-      "offset": 537,
+      "offset": 547,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
       "kind": "IntegerLiteral",
-      "offset": 545,
+      "offset": 555,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
       "kind": "StringLiteral",
-      "offset": 548,
+      "offset": 558,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
       "kind": "StringLiteral",
-      "offset": 602,
+      "offset": 612,
       "length": 7,
       "value": "\"Close\""
     },
     {
       "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
       "kind": "BooleanLiteral",
-      "offset": 648,
+      "offset": 658,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
       "kind": "IntegerLiteral",
-      "offset": 710,
+      "offset": 720,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
       "kind": "StringLiteral",
-      "offset": 741,
+      "offset": 751,
       "length": 19,
       "value": "\"Open Another View\""
     },
     {
       "filePath": "\/Users\/ekachai\/Downloads\/prototype\/MiniAppA\/MiniAppA\/view1.swift",
       "kind": "BooleanLiteral",
-      "offset": 806,
+      "offset": 816,
       "length": 4,
       "value": "true"
     },

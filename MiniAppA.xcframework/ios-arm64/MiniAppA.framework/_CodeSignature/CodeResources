@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/MiniAppA.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		oMrSd3Z7mcu7nw+AxWYe1tNaWdU=
+		9wRotJMyvRHdJT2R3ldvkzi8E9I=
 		</data>
 		<key>Modules/MiniAppA.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/MiniAppA.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		s6YWdCQLjOx70hUI5WGG9kUv3eo=
+		uom+0y3fRa6iY89w6vS3ZHfQbXI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,7 +61,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nVxeMGLrM/n8EN1eP+K1mC8Ze9hQzyziuGN+ec8hs/U=
+			rqFPd/CA2C9+aIYQqAepvp280NAfiaHc8ZvOY47l30o=
 			</data>
 		</dict>
 		<key>Modules/MiniAppA.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -89,7 +89,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CdTnqHse4gV4qdIbGrzxCfyear2Rkfc+OWVHPYmqWcQ=
+			P95JdaNTCAH0sZNFW9+nof2IgOPzpz+IZ/W2ysVQVwk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
