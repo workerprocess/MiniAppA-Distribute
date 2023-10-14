@@ -8,7 +8,7 @@ let package = Package(
     products: [
         .library(
             name: "MiniAppA",
-            targets: ["MiniAppA"])
+            targets: ["MiniAppA","LogicCalculate"])
     ],
     targets: [
         .binaryTarget(
