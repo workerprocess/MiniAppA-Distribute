@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/MiniAppA.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		QRI0dorPMriEVYAYd8Akhy9qFpc=
+		QBsu3cxNPthZFNt4t0tZsxGRJgs=
 		</data>
 		<key>Modules/MiniAppA.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/MiniAppA.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		QRI0dorPMriEVYAYd8Akhy9qFpc=
+		QBsu3cxNPthZFNt4t0tZsxGRJgs=
 		</data>
 		<key>Modules/MiniAppA.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JPpx1mIE9kWvrIDaQzcTKaUnzmhAhD2fRguoeRLajII=
+			tfGNYZX3p0ufJpS6oEGm8p9TlPXftZayxYhuaXmrO1I=
 			</data>
 		</dict>
 		<key>Modules/MiniAppA.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -116,7 +116,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JPpx1mIE9kWvrIDaQzcTKaUnzmhAhD2fRguoeRLajII=
+			tfGNYZX3p0ufJpS6oEGm8p9TlPXftZayxYhuaXmrO1I=
 			</data>
 		</dict>
 		<key>Modules/MiniAppA.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
